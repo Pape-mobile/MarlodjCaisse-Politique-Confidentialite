@@ -1,4 +1,4 @@
-#Politique de confidentialité
+# Politique de confidentialité
 
 Obertys a construit l'application Marlodji Caisse en tant qu'application commerciale. Ce service est fourni par Obertys et est destiné à être utilisé tel quel.
 
@@ -8,7 +8,7 @@ Si vous choisissez d'utiliser notre Service, vous acceptez la collecte et l'util
 
 Les termes utilisés dans cette politique de confidentialité ont la même signification que dans nos conditions générales, qui sont accessibles dans l'espace client Ecobank, sauf indication contraire dans la présente politique de confidentialité.
 
-##Collecte et utilisation des informations
+## Collecte et utilisation des informations
 
 Pour une meilleure expérience, lors de l'utilisation de notre Service, nous pouvons vous demander de nous fournir certaines informations personnellement identifiables. Les informations que nous demandons seront conservées par nous et utilisées comme décrit dans cette politique de confidentialité.
 
@@ -24,7 +24,7 @@ Nous souhaitons vous informer que chaque fois que vous utilisez notre Service, e
 
 
 
-##Cookies
+## Cookies
 
 Les cookies sont des fichiers contenant une petite quantité de données qui sont couramment utilisés comme identifiants uniques anonymes. Ceux-ci sont envoyés à votre navigateur à partir des sites Web que vous visitez et sont stockés dans la mémoire interne de votre appareil.
 
@@ -40,7 +40,7 @@ Pour effectuer des services liés au service; ou
 Pour nous aider à analyser l'utilisation de notre service.
 Nous voulons informer les utilisateurs de ce service que ces tiers ont accès à vos informations personnelles. La raison est d'accomplir les tâches qui leur sont assignées en notre nom. Cependant, ils sont tenus de ne pas divulguer ou utiliser les informations à d'autres fins.
 
-##Sécurité
+## Sécurité
 
 Nous apprécions votre confiance en nous fournissant vos informations personnelles, nous nous efforçons donc d'utiliser des moyens commercialement acceptables pour les protéger. Mais rappelez-vous qu'aucune méthode de transmission sur Internet ou méthode de stockage électronique n'est sûre et fiable à 100%, et nous ne pouvons garantir sa sécurité absolue.
 
@@ -50,7 +50,7 @@ Ce service peut contenir des liens vers d'autres sites. Si vous cliquez sur un l
 
 
 
-##Confidentialité des enfants
+## Confidentialité des enfants
 
 Ces services ne s'adressent à personne de moins de 13 ans. Nous ne collectons pas sciemment des informations personnellement identifiables d'enfants de moins de 13 ans. Dans le cas où nous découvrons qu'un enfant de moins de 13 ans nous a fourni des informations personnelles, nous les supprimons immédiatement de nos serveurs. Si vous êtes un parent ou un tuteur et que vous savez que votre enfant nous a fourni des informations personnelles, veuillez nous contacter afin que nous puissions prendre les mesures nécessaires.
 
